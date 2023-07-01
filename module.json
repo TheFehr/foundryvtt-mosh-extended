@@ -13,7 +13,7 @@
   "compatibility": {
     "minimum": "10",
     "verified": "10.291",
-    "maximum": "10"
+    "maximum": "11"
   },
   "packs": [
     {
@@ -63,7 +63,7 @@
       }
     ]
   },
-  "url": "https://github.com/JDR-Ninja/foundryvtt-mosh-extended",
-  "download": "https://github.com/JDR-Ninja/foundryvtt-mosh-extended/releases/download/0.1.0/module.zip",
-  "manifest": "https://github.com/JDR-Ninja/foundryvtt-mosh-extended/releases/download/latest/module.json"
+  "url": "https://github.com/TheFehr/foundryvtt-mosh-extended",
+  "download": "https://github.com/TheFehr/foundryvtt-mosh-extended/releases/download/0.1.0/module.zip",
+  "manifest": "https://github.com/TheFehr/foundryvtt-mosh-extended/releases/download/latest/module.json"
 }
